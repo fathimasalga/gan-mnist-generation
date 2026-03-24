@@ -87,7 +87,7 @@ Images of generated Digit Samples and Loss curve are attached here
 
 ---
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
 
 - Conditional GAN (digit-specific generation)
 - Wasserstein GAN for improved stability
